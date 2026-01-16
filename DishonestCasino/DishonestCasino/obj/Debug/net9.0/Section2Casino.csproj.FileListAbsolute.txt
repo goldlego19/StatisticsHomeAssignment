@@ -1,0 +1,15 @@
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\bin\Debug\net9.0\Section2Casino.exe
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\bin\Debug\net9.0\Section2Casino.deps.json
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\bin\Debug\net9.0\Section2Casino.runtimeconfig.json
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\bin\Debug\net9.0\Section2Casino.dll
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\bin\Debug\net9.0\Section2Casino.pdb
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.AssemblyInfoInputs.cache
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.AssemblyInfo.cs
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.sourcelink.json
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.dll
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\refint\Section2Casino.dll
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.pdb
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\Section2Casino.genruntimeconfig.cache
+C:\Users\Denzel\Desktop\school\lvl6\yr3sem1\StatisticsHomeAssignment\DishonestCasino\DishonestCasino\obj\Debug\net9.0\ref\Section2Casino.dll
